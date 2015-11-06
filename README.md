@@ -22,6 +22,10 @@ for single node XPath.
 
 Fine I need to use XPATH in LockView but I cannot find any!
 
+# WHY NO MORE SUPPORT?
+
+Really, I don't think Chrome will generate any XPaths more complicated than these.
+
 The following is the test case.
 
     <language:OnlineSource RequestString="http://cn.bing.com/dict/?mkt=zh-CN" HeadlineSelectionPath="/html/body/div[3]/div/div[1]/div/div[2]/div[1]/div[1]/a" PhoneticSelectionPath="/html/body/div[3]/div/div[1]/div/div[2]/div[1]/div[2]/div[1]" SecondaryLineSelectionPath="/html/body/div[3]/div/div[1]/div/div[2]/div[1]/div[4]"/>
